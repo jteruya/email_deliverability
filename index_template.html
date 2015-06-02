@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="author" content="Product Team">
+  <link rel="icon" href="image/favicon.ico" type="image/x-icon">
+  <title>Core Email Funnel Dashboard</title>
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!-- <script src="js/highcharts.js"></script> -->
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+
+  <script src="js/welcomedelivered.js"></script>
+  <script src="js/welcomeopened.js"></script>
+  <script src="js/welcomeclicked.js"></script>
+  <script src="js/welcomecomplained.js"></script>
+  <script src="js/welcomestored.js"></script>
+  <script src="js/welcomeunsubscribed.js"></script>
+
+  <script src="js/dailydigestdelivered.js"></script>
+  <script src="js/dailydigestopened.js"></script>
+  <script src="js/dailydigestclicked.js"></script>
+  <script src="js/dailydigestcomplained.js"></script>
+  <script src="js/dailydigeststored.js"></script>
+  <script src="js/dailydigestunsubscribed.js"></script>
+
+
+  <style>
+    /* img.icon {width: 100px; height: 100px;} */
+    div.header {width: 100%; text-align: center}
+    div.chart {width: 49%; height: 40%}
+    div.textright {width: 33%; padding-bottom: 10px; padding-top: 10px; padding-right: 10px; padding-left: 5px; text-align: left}
+    div.linkbarleft {width: 50%; padding-bottom: 30px; padding-top: 5px;  float: left}
+    div.linkbarcenter {width: 70%; padding-bottom: 30px; padding-top: 2px;  margin: 0 auto;}
+    div.linkbarright {width: 49%; padding-bottom: 30px; padding-top: 5px; float: right}
+    div.midbar {width: 100%; padding-bottom: 2px; padding-top: 2px;  float: left}
+  </style>
+
+</head>
+
+<body>
+  <!-- a href="../../">Back to Portal</a -->
+  <div class="header">
+    <img class="icon" src='image/logo.png'></img> 
+    <font face="Verdana"><h3>Core Email Deliverability Dashboard</h3></font>
+    <!-- <a href="https://doubledutch.atlassian.net/wiki/display/PROD/Core">Confluence Documentation</a><br></font> -->
+    <!-- font face="Verdana">The following charts represent Email Deliverability metrics measured over the last 30 days.</font><br><br -->
+  </div>
+
+  <hr>
+
+  <div id="welcome_delivered" class="chart" style="float: left"></div>
+  <div id="welcome_opened" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/welcomeemaildelivered.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/welcomeemailopened.csv"><font size="2">Download CSV</font></a>
+  </div>
+
+  <div id="welcome_complained" class="chart" style="float: left"></div>
+  <div id="welcome_clicked" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/welcomeemailcomplained.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/welcomeemailclicked.csv"><font size="2">Download CSV</font></a>
+  </div> 
+
+  <div id="welcome_unsubscribed" class="chart" style="float: left"></div>
+  <div id="welcome_stored" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/welcomeemailunsubscribed.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/welcomeemailstored.csv"><font size="2">Download CSV</font></a>
+  </div>  
+
+  <!-- Dividing Bar -->
+  <div class="midbar"><hr></div>
+
+  <div id="dailydigest_delivered" class="chart" style="float: left"></div>
+  <div id="dailydigest_opened" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/dailydigestemaildelivered.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/dailydigestemailopened.csv"><font size="2">Download CSV</font></a>
+  </div>
+
+
+  <div id="dailydigest_complained" class="chart" style="float: left"></div>
+  <div id="dailydigest_clicked" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/dailydigestemailcomplained.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/dailydigestemailclicked.csv"><font size="2">Download CSV</font></a>
+  </div>
+
+  <div id="dailydigest_unsubscribed" class="chart" style="float: left"></div>
+  <div id="dailydigest_stored" class="chart" style="float: right"></div>
+
+  <div class="linkbarleft">
+      <a target="_blank" href="csv/dailydigestemailunsubscribed.csv"><font size="2">Download CSV</font></a>
+  </div>
+  <div class="linkbarright">
+      <a target="_blank" href="csv/dailydigestemailstored.csv"><font size="2">Download CSV</font></a>
+  </div>
+
+  <!-- Dividing Bar -->
+  <div class="midbar"><hr></div>  
+
+</body>
+
+</html>

@@ -1,0 +1,301 @@
+metric_desc,metric_val_30,metric_val_25,metric_val_20,metric_val_15,metric_val_10,metric_val_5,metric_val_0
+delivered:dailydigestemail:Conference,93.0700,94.0700,94.4600,94.6000,95.1700,95.2800,95.3100
+delivered:messagealertemail:Expo,98.0500,97.6800,97.6500,97.6500,97.3400,97.1400,95.1300
+delivered:welcomeemail:Conference,94.8100,95.7000,95.8300,95.9700,96.1000,96.1000,96.1100
+delivered:setupleadscanningcalltoactionemail:Conference,99.0100,99.0300,99.0600,99.0700,99.0700,99.0700,99.0700
+delivered:passwordresetemail:Conference,99.0800,99.0800,98.9600,98.9600,99.0600,99.0900,99.1000
+delivered:beaconmessageinfoemail:Unknown,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:leadsreportemailemail:Corporate Internal,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:messagealertemail:Conference,96.3300,97.0300,97.1300,97.2800,97.4400,97.3600,97.3800
+delivered:dailydigestemail:Expo,96.1600,96.4200,96.2100,96.4400,96.6700,96.7500,95.1100
+delivered:exhibitoropportunityemail:Unknown,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:passwordresetemail:Expo,99.3800,99.4800,99.2900,98.8400,98.8300,98.8900,98.7900
+delivered:sessionnotealertemail:Corporate External,100.0000,100.0000,100.0000,90.8000,92.4500,92.5200,92.9800
+delivered:welcomeemail:Expo,95.1000,96.8600,96.8000,96.8600,96.8200,96.9200,96.9700
+delivered:setupleadscanningcalltoactionemail:Expo,94.3100,94.3900,94.3900,94.3900,94.3900,94.4100,94.4100
+delivered:beaconmessageinfoemail:No Event Type,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:beaconmessageinfoemail:Corporate Internal,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:sessionnotealertemail:Conference,,,,,50.0000,75.0000,80.0000
+delivered:messagealertemail:Corporate External,98.3400,98.1100,98.0900,97.7000,97.9400,97.9300,98.0000
+delivered:passwordresetemail:Corporate External,98.9300,98.6300,98.7200,98.8700,98.9300,98.9500,98.8800
+delivered:sessionnotealertemail:Expo,100.0000,100.0000,100.0000,60.0000,71.4300,75.0000,75.0000
+delivered:welcomeemail:Corporate External,97.4100,97.2000,97.0600,97.0900,97.1600,97.2900,97.2400
+delivered:exhibitoropportunityemail:Corporate Internal,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:dailydigestemail:Corporate External,94.1100,95.0000,95.3500,95.9100,96.1100,96.1700,96.1800
+delivered:unknownemail:Expo,,,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:messagealertemail:No Event Type,97.6700,97.8000,97.6100,97.5700,97.7300,97.7100,97.4000
+delivered:dailydigestemail:Unknown,98.3500,98.2800,98.4500,98.1000,53.1500,35.4400,33.9800
+delivered:exhibitoropportunityemail:Expo,93.5300,93.6900,93.7600,94.2600,94.2600,94.2600,94.2800
+delivered:leadsreportemailemail:Corporate External,,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:beaconmessageinfoemail:Conference,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:passwordresetemail:Unknown,99.9100,99.5100,99.2900,99.4500,98.7200,98.7100,98.5900
+delivered:sessionnotealertemail:Corporate Internal,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:welcomeemail:Unknown,97.6800,97.7600,97.7500,97.7500,97.5600,97.5500,98.4000
+delivered:setupleadscanningcalltoactionemail:Unknown,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:exhibitoropportunityemail:Conference,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:messagealertemail:Unknown,100.0000,98.8000,98.5400,97.4400,97.5100,97.5700,98.0700
+delivered:dailydigestemail:No Event Type,98.4100,98.1400,97.6800,97.6200,97.6000,97.5900,97.5900
+delivered:passwordresetemail:No Event Type,98.1900,98.9300,98.7800,98.7400,98.7300,98.7500,98.7300
+delivered:beaconmessageinfoemail:Expo,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:welcomeemail:No Event Type,97.5600,97.5500,96.6400,96.6000,96.7800,96.7500,96.7500
+delivered:setupleadscanningcalltoactionemail:No Event Type,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:sessionnotealertemail:Unknown,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:welcomeemail:Corporate Internal,98.6500,98.6800,98.3800,98.2100,98.2100,98.2000,98.1800
+delivered:setupleadscanningcalltoactionemail:Corporate Internal,,,,,100.0000,100.0000,100.0000
+delivered:passwordresetemail:Corporate Internal,99.6500,99.3900,99.3700,99.3300,99.1000,99.0500,99.0800
+delivered:dailydigestemail:Corporate Internal,98.3600,97.4400,96.4500,95.7400,96.3800,96.3700,96.4800
+delivered:leadsreportemailemail:Expo,,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:sessionnotealertemail:No Event Type,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:beaconmessageinfoemail:Corporate External,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+delivered:messagealertemail:Corporate Internal,98.0900,97.7500,97.4200,97.5700,97.7000,97.7400,97.8100
+delivered:leadsreportemailemail:Conference,100.0000,100.0000,97.2200,97.3000,97.3000,97.3000,97.3700
+opened:dailydigestemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:messagealertemail:Expo,0.0000,7.7000,13.2100,17.1500,26.0900,30.2000,36.5800
+opened:welcomeemail:Conference,40.3100,41.0300,42.2000,42.0600,43.0200,44.0200,44.7800
+opened:setupleadscanningcalltoactionemail:Conference,39.3300,51.6500,56.3800,57.8900,60.0000,61.0500,65.6300
+opened:passwordresetemail:Conference,61.8500,60.7500,60.2600,60.3600,60.8900,61.7000,62.4800
+opened:beaconmessageinfoemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:leadsreportemailemail:Corporate Internal,0.0000,0.0000,0.0000,50.0000,50.0000,50.0000,50.0000
+opened:messagealertemail:Conference,0.0000,4.1400,12.5000,23.4000,31.0400,33.2900,35.3300
+opened:dailydigestemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:exhibitoropportunityemail:Unknown,100.0000,100.0000,35.7100,35.7100,42.8600,42.8600,42.8600
+opened:passwordresetemail:Expo,65.9500,64.9400,65.3100,64.9100,66.6000,68.0800,71.1900
+opened:sessionnotealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:welcomeemail:Expo,39.4400,33.3100,36.6000,37.8000,39.7300,41.1900,44.1200
+opened:setupleadscanningcalltoactionemail:Expo,29.7100,42.8000,48.5600,51.4400,52.2600,52.6700,53.0900
+opened:beaconmessageinfoemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:beaconmessageinfoemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:sessionnotealertemail:Conference,,,,,0.0000,0.0000,0.0000
+opened:messagealertemail:Corporate External,0.0000,1.8200,5.3800,16.8900,26.5800,28.9100,32.8200
+opened:passwordresetemail:Corporate External,58.6600,59.1800,60.0000,61.9900,62.4400,62.7500,63.3600
+opened:sessionnotealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:welcomeemail:Corporate External,50.7100,46.5400,48.6700,49.1800,51.5500,51.5400,53.1800
+opened:exhibitoropportunityemail:Corporate Internal,,,0.0000,40.0000,50.0000,50.0000,50.0000
+opened:dailydigestemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:unknownemail:Expo,,,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:messagealertemail:No Event Type,0.0000,7.5300,18.0200,22.7000,29.1700,32.3200,34.9400
+opened:dailydigestemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:exhibitoropportunityemail:Expo,27.3500,35.6600,39.1500,45.4100,46.6200,46.6200,47.3600
+opened:leadsreportemailemail:Corporate External,,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+opened:beaconmessageinfoemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:passwordresetemail:Unknown,60.8000,60.4500,60.9600,61.5900,59.5600,59.4600,60.6200
+opened:sessionnotealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:welcomeemail:Unknown,35.0900,46.5900,49.7000,49.4200,49.0600,50.1800,47.9900
+opened:setupleadscanningcalltoactionemail:Unknown,0.0000,0.0000,35.7100,42.8600,57.1400,57.1400,57.1400
+opened:exhibitoropportunityemail:Conference,40.9100,51.1100,51.1100,52.1700,54.3500,54.3500,55.3200
+opened:messagealertemail:Unknown,0.0000,13.9400,37.3900,42.2600,47.6200,47.2500,48.6200
+opened:dailydigestemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:passwordresetemail:No Event Type,63.3500,62.6300,69.6300,70.4400,70.2600,70.5500,71.0900
+opened:beaconmessageinfoemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:welcomeemail:No Event Type,42.1600,45.8700,50.1900,50.2400,49.8500,52.3900,53.8300
+opened:setupleadscanningcalltoactionemail:No Event Type,40.0000,54.5500,54.5500,63.6400,72.7300,81.8200,81.8200
+opened:sessionnotealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:welcomeemail:Corporate Internal,41.0400,44.6400,45.2800,43.6900,48.2600,48.9100,49.5900
+opened:setupleadscanningcalltoactionemail:Corporate Internal,,,,,0.0000,0.0000,0.0000
+opened:passwordresetemail:Corporate Internal,63.9900,63.0500,59.4300,58.1200,56.5100,57.1200,58.1800
+opened:dailydigestemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:leadsreportemailemail:Expo,,44.4400,61.5400,64.7100,66.6700,73.6800,69.5700
+opened:sessionnotealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:beaconmessageinfoemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+opened:messagealertemail:Corporate Internal,0.0000,5.8100,14.7100,19.6500,23.5900,24.9200,27.4000
+opened:leadsreportemailemail:Conference,50.0000,50.0000,23.5300,31.4300,42.8600,42.8600,52.7800
+clicked:dailydigestemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:messagealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:Conference,13.0600,11.8500,12.1400,11.8800,11.2700,11.3800,11.4500
+clicked:setupleadscanningcalltoactionemail:Conference,26.9700,38.4600,43.6200,43.1600,44.2100,44.2100,44.7900
+clicked:passwordresetemail:Conference,31.3900,30.2400,29.8700,30.0300,29.6500,29.9000,30.3400
+clicked:beaconmessageinfoemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:leadsreportemailemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:messagealertemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:dailydigestemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:exhibitoropportunityemail:Unknown,100.0000,100.0000,14.2900,14.2900,14.2900,14.2900,14.2900
+clicked:passwordresetemail:Expo,38.6800,36.6000,37.8800,36.6600,36.1700,36.8100,36.8500
+clicked:sessionnotealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:Expo,11.2600,3.6400,4.2100,5.0100,5.4500,6.0300,7.0100
+clicked:setupleadscanningcalltoactionemail:Expo,17.5700,29.2200,33.3300,33.7400,34.5700,34.5700,34.5700
+clicked:beaconmessageinfoemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:beaconmessageinfoemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:sessionnotealertemail:Conference,,,,,0.0000,0.0000,0.0000
+clicked:messagealertemail:Corporate External,0.0000,0.0400,0.1300,0.3900,0.3100,0.2900,0.3000
+clicked:passwordresetemail:Corporate External,29.5400,29.7500,29.9300,31.2000,30.3800,30.5000,30.5800
+clicked:sessionnotealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:Corporate External,22.4500,18.1300,18.7400,18.0100,18.9100,18.2600,18.3100
+clicked:exhibitoropportunityemail:Corporate Internal,,,0.0000,30.0000,35.0000,35.0000,35.0000
+clicked:dailydigestemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:unknownemail:Expo,,,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:messagealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:dailydigestemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:exhibitoropportunityemail:Expo,8.8400,12.0600,13.7600,20.2900,20.7700,20.7700,21.1500
+clicked:leadsreportemailemail:Corporate External,,100.0000,100.0000,100.0000,100.0000,100.0000,100.0000
+clicked:beaconmessageinfoemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:passwordresetemail:Unknown,30.6800,28.0400,27.3600,27.9900,26.9900,26.8800,27.2100
+clicked:sessionnotealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:Unknown,10.8500,21.8100,21.9300,22.2700,22.1100,22.3700,17.7400
+clicked:setupleadscanningcalltoactionemail:Unknown,0.0000,0.0000,28.5700,42.8600,50.0000,50.0000,50.0000
+clicked:exhibitoropportunityemail:Conference,22.7300,22.2200,22.2200,23.9100,23.9100,23.9100,25.5300
+clicked:messagealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:dailydigestemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:passwordresetemail:No Event Type,32.0600,31.5300,32.8900,32.7700,32.3300,32.4100,32.3700
+clicked:beaconmessageinfoemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:No Event Type,20.0400,20.8000,15.9600,15.3900,15.5700,16.5100,16.7200
+clicked:setupleadscanningcalltoactionemail:No Event Type,40.0000,72.7300,72.7300,72.7300,72.7300,72.7300,72.7300
+clicked:sessionnotealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:welcomeemail:Corporate Internal,21.1200,23.8300,23.8900,22.8100,25.4300,25.5300,25.6600
+clicked:setupleadscanningcalltoactionemail:Corporate Internal,,,,,0.0000,0.0000,0.0000
+clicked:passwordresetemail:Corporate Internal,27.8500,28.1700,26.8800,26.3200,24.9100,25.1100,25.4000
+clicked:dailydigestemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:leadsreportemailemail:Expo,,33.3300,30.7700,41.1800,38.8900,36.8400,30.4300
+clicked:sessionnotealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:beaconmessageinfoemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:messagealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+clicked:leadsreportemailemail:Conference,50.0000,50.0000,11.7600,11.4300,11.4300,11.4300,11.1100
+unsubscribed:dailydigestemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:setupleadscanningcalltoactionemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:leadsreportemailemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:dailydigestemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:exhibitoropportunityemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:setupleadscanningcalltoactionemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:Conference,,,,,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:exhibitoropportunityemail:Corporate Internal,,,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:dailydigestemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:unknownemail:Expo,,,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:dailydigestemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:exhibitoropportunityemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:leadsreportemailemail:Corporate External,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:setupleadscanningcalltoactionemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:exhibitoropportunityemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:dailydigestemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:setupleadscanningcalltoactionemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:welcomeemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:setupleadscanningcalltoactionemail:Corporate Internal,,,,,0.0000,0.0000,0.0000
+unsubscribed:passwordresetemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:dailydigestemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:leadsreportemailemail:Expo,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:sessionnotealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:beaconmessageinfoemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:messagealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+unsubscribed:leadsreportemailemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:messagealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:setupleadscanningcalltoactionemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:passwordresetemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:leadsreportemailemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:messagealertemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:exhibitoropportunityemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:passwordresetemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:setupleadscanningcalltoactionemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:Conference,,,,,0.0000,0.0000,0.0000
+stored:messagealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:passwordresetemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:exhibitoropportunityemail:Corporate Internal,,,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:unknownemail:Expo,,,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:messagealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:exhibitoropportunityemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:leadsreportemailemail:Corporate External,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:passwordresetemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:setupleadscanningcalltoactionemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:exhibitoropportunityemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:messagealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:passwordresetemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:setupleadscanningcalltoactionemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:welcomeemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:setupleadscanningcalltoactionemail:Corporate Internal,,,,,0.0000,0.0000,0.0000
+stored:passwordresetemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:dailydigestemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:leadsreportemailemail:Expo,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:sessionnotealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:beaconmessageinfoemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:messagealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+stored:leadsreportemailemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:dailydigestemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:messagealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:Conference,0.0000,0.0100,0.0100,0.0100,0.0100,0.0100,0.0100
+complained:setupleadscanningcalltoactionemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:passwordresetemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:leadsreportemailemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:messagealertemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:dailydigestemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0100
+complained:exhibitoropportunityemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:passwordresetemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:Expo,0.0200,0.0200,0.0200,0.0200,0.0200,0.0200,0.0100
+complained:setupleadscanningcalltoactionemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:Conference,,,,,0.0000,0.0000,0.0000
+complained:messagealertemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:passwordresetemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:exhibitoropportunityemail:Corporate Internal,,,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:dailydigestemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:unknownemail:Expo,,,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:messagealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:dailydigestemail:Unknown,0.0200,0.0100,0.0100,0.0100,0.0000,0.0000,0.0000
+complained:exhibitoropportunityemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:leadsreportemailemail:Corporate External,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:passwordresetemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:setupleadscanningcalltoactionemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:exhibitoropportunityemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:messagealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:dailydigestemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:passwordresetemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:Expo,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:setupleadscanningcalltoactionemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:Unknown,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:welcomeemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:setupleadscanningcalltoactionemail:Corporate Internal,,,,,0.0000,0.0000,0.0000
+complained:passwordresetemail:Corporate Internal,0.0000,0.0000,0.0200,0.0100,0.0100,0.0100,0.0100
+complained:dailydigestemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0100
+complained:leadsreportemailemail:Expo,,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:sessionnotealertemail:No Event Type,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:beaconmessageinfoemail:Corporate External,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:messagealertemail:Corporate Internal,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
+complained:leadsreportemailemail:Conference,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
